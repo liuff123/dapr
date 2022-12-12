@@ -16,7 +16,7 @@ require (
 	github.com/gogo/protobuf v1.3.2
 	github.com/golang/mock v1.6.0
 	github.com/golang/protobuf v1.5.2
-	github.com/google/cel-go v0.12.5
+	github.com/google/cel-go v0.13.0
 	github.com/google/go-cmp v0.5.9
 	github.com/google/uuid v1.3.0
 	github.com/gorilla/mux v1.8.0
@@ -136,7 +136,7 @@ require (
 	github.com/aliyun/credentials-go v1.1.2 // indirect
 	github.com/andres-erbsen/clock v0.0.0-20160526145045-9e14626cd129 // indirect
 	github.com/andybalholm/brotli v1.0.4 // indirect
-	github.com/antlr/antlr4/runtime/Go/antlr v0.0.0-20220418222510-f25a4f6275ed // indirect
+	github.com/antlr/antlr4/runtime/Go/antlr v1.4.10 // indirect
 	github.com/apache/dubbo-getty v1.4.9-0.20220610060150-8af010f3f3dc // indirect
 	github.com/apache/dubbo-go-hessian2 v1.11.3 // indirect
 	github.com/apache/pulsar-client-go v0.9.0 // indirect
